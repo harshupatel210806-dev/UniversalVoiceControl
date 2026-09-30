@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Universal Voice Control</string>
+    <string name="accessibility_description">Voice control for phone UI actions such as Home, Back, Recents, Tap, Scroll and Type.</string>
+</resources>
